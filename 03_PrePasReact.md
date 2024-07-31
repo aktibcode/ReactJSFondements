@@ -24,8 +24,7 @@ Maintenant, essayez de jouer avec le code HTML qui se trouve dans le fichier **
 
 
 # La structure du projet :
-
-Vous vous demandez peut-être pourquoi le projet React contient autant de dossiers et de fichiers. Nous ne les passerons pas tous en revue, mais nous devons comprendre le but de certains d'entre eux.
+  Vous vous demandez peut-être pourquoi le projet React contient autant de dossiers et de fichiers. Nous ne les passerons pas tous en revue, mais nous devons comprendre le but de certains d'entre eux.
 Nous pouvons diviser ces fichiers en deux sections.
 
 1. fichiers liés à npm
