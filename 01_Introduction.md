@@ -1,7 +1,6 @@
-Chapitre : INTRODUCTION A REACTJS
+# **Chapitre : INTRODUCTION A REACTJS**
 
 * Introduction
-
 
 ES6 est une étape majeure dans l'évolution de JavaScript.
 
@@ -14,8 +13,7 @@ Au cours de cette super compétence, nous allons :
 * Apprenez à configurer un environnement afin que nous puissions commencer à utiliser React.js dès que possible.
 * Découvrez comment démarrer avec React.js et faire nos premiers pas.
 
-# 
-    Qu'est-ce que React ?
+## Qu'est-ce que React ?
 
 Comme nous l’avons dit précédemment, React.js est une bibliothèque JavaScript permettant de créer des interfaces utilisateur.
 
@@ -34,7 +32,7 @@ Il s'agit de gérer la couche de visualisation pour les applications Web et mobi
 
     https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png
 
-# Qu'est-ce qu'une application monopage ?
+## Qu'est-ce qu'une application monopage ?
 
 Les applications modernes ont tendance à adhérer à ce que l’on appelle un modèle d’application monopage (SPA = Single Page Application).
 
@@ -45,7 +43,7 @@ Le composant App.js sera le point de départ de notre SPA. App.js est le composa
     https://youtu.be/BscORJBwrqY?list=PL-w_yrNy8uTaWNAYCFoyW0C0zPm4S9b3v
 
 
-# Pourquoi utiliser React ?
+## Pourquoi utiliser React ?
 
 Souvent, dans les applications du monde réel, le développement d'un site Web à l'aide de HTML, CSS et JavaScript peut s'avérer très difficile et monotone. Voici pourquoi :
 
@@ -67,7 +65,7 @@ La réponse à cette question est très simple, React est :
 * Simple dans le processus de débogage.
 
 
-# Caractéristiques de React :
+## Caractéristiques de React :
 
 React possède plusieurs excellentes fonctionnalités qui sont très utiles lors de la création de l'interface utilisateur.
 
@@ -81,7 +79,7 @@ React possède plusieurs excellentes fonctionnalités qui sont très utiles lors
 * **Simplicité** : React est très simple à apprendre et à utiliser, surtout pour les nouveaux arrivants.
 
 
-# Applications créées avec React
+## Applications créées avec React
 
 Le monde numérique est en constante évolution et change au moment où nous parlons. Dans un tel monde, il est certainement difficile de s'adapter aux tendances. Pourtant, c'est exactement ce que font les grandes entreprises technologiques du secteur. Les
 principales applications comme Facebook, Instagram, Netflix et d'autres améliorent constamment leur expérience et s'adaptent aux nouveaux cadres et tendances.
@@ -92,7 +90,7 @@ La plupart d'entre elles sont : Facebook, Instagram, ADA, Netflix, Dropbox, Payp
     https://i.imgur.com/Ekaqkem.png
 
 
-# Exemple : les films Netflix.
+### Exemple : les films Netflix.
 
 Prenons un exemple pour mettre en évidence la différence entre le HTML normal et React.
 Essayons de reconstruire la liste de films de Netflix en utilisant HTML, puis de la reconstruire en utilisant React. Nous comparerons les deux versions plus tard.
@@ -100,7 +98,7 @@ Essayons de reconstruire la liste de films de Netflix en utilisant HTML, puis de
     https://i.imgur.com/leX96ZJ.png
 
 
-# Exemple : films Netflix utilisant HTML
+### Exemple : films Netflix utilisant HTML
 
 En utilisant HTML, nous nous retrouvons avec ce fouillis de code incompréhensible :
 
@@ -162,7 +160,7 @@ En utilisant HTML, nous nous retrouvons avec ce fouillis de code incompréhensib
 ```
 
 
-# Exemple : films Netflix utilisant React.js
+### Exemple : films Netflix utilisant React.js
 
 D'un autre côté, après avoir refactorisé ce code dans React à l'aide de composants, nous obtenons un code beaucoup plus propre.
 Notez que `<Movie/>`la balise ne fait pas partie du HTML, c'est une balise que nous avons créée à l'aide de React. Cela s'appelle un **composant React** .
